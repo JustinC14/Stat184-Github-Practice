@@ -1,1 +1,1 @@
-# Stat184-Github-Practice-1
+# Stat184-Github-Practice
